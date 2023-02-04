@@ -1,0 +1,17 @@
+console.group("first group");
+console.log("message 1");
+console.log("message 2");
+console.group("Child Group");
+console.log("message 1");
+console.log("message 2");
+console.group("Grind Child Group");
+console.log("message 1");
+console.log("message 2");
+console.group("Ammar group");
+console.groupEnd();
+console.groupEnd();
+console.groupEnd();
+console.groupEnd();
+console.group("second group");
+console.log("message 1");
+console.log("message 2");
