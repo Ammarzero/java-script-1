@@ -1,0 +1,1 @@
+console.log("%cLearning %cJava %cScript", "color: green; font-size:50px;", "color:red; font-size:50px; font-weight:bold;", "color:white; background-color:blue; font-size:50px;");
